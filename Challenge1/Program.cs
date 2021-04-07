@@ -37,6 +37,6 @@ namespace Challenge1
                 count += 15;
             }
             Console.WriteLine($"All numbers divisible by 3 or 5 that are below 1000 add up to {total}.");
-        }
+        }//Main()
     }
 }
